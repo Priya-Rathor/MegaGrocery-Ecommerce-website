@@ -6,7 +6,7 @@
 MegaMart is an innovative e-commerce website designed to provide an interactive and user-friendly shopping experience. It includes standard e-commerce functionalities along with a unique smart list feature called SmartList.
 ## 🚀 Features
 
-## SmartList(Add Feature)
+## SmartList(New Feature)
  SmartList allows MegaMart users to create customized, reusable shopping lists for different time frames:
 
 - Monthly Lists 📅 (e.g., oil, rice, flour)
