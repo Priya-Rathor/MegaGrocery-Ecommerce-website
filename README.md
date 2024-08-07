@@ -1,5 +1,5 @@
 
-# MegaMart: E-commerce Website with SmartList Feature
+# MegaGrocery: E-commerce Website with SmartList Feature
 
 
 ## Project Overview
